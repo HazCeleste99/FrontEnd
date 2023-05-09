@@ -1,2 +1,2 @@
 # FrontEnd
-Plantillas con tailwind css, CSS3 y Bootstrap  
+Plantillas con tailwind css, CSS3, Sass y Bootstrap  
